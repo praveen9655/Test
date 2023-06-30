@@ -6,3 +6,9 @@ Hi This is css file
 <body>
 <h1>Welcome to Project au</h1>
 </body>
+<html>
+Hi This is css file
+</html>
+<body>
+<h1>Welcome to Project au</h1>
+</body>
